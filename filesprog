@@ -1,0 +1,26 @@
+p4
+Sudo apt install docker.io
+Sudo docker run hello-world
+Sudo docker run busybox echo "hi"
+Sudo docker run --privileged redis
+
+ter.....
+Sudo docker ps
+Sudo docker exec -it keyID sh
+cd../
+ls
+
+
+
+
+
+p5
+
+git clone "welcome to docker git link"
+cd welcome-to-docker
+Sudo docker build -t myimage .
+Sudo docker run -p 8081:3000 myimage
+Localhost:8081 in browser
+
+
+
