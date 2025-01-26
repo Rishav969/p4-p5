@@ -24,3 +24,25 @@ Localhost:8081 in browser
 
 
 
+
+
+
+
+
+
+------------------------------------------------------------
+1st
+
+1. First open the git terminal.
+2. Then using cd command , direct it to the desktop.
+3. Then make a repository in Github account.
+4. Write git init, then git clone <repository link> in the terminal.
+5. A folder will be created.
+6. add files in the folder.
+7. in the git terminal, write git add .
+8. then git commit -m "Success".
+9. Then git push -u origin main.
+10. The files have been pushed to github.
+
+
+
